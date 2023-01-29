@@ -12,3 +12,6 @@ steps:
 - Create NatGateway
 - Create EC2 on public subnet
 - Create EC2 on private subnet
+
+
+![Capture](https://user-images.githubusercontent.com/68289149/215324025-38a529ea-e58a-4f9c-b6ce-20bc508879f6.png)
